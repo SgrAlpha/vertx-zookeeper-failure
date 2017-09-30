@@ -1,4 +1,4 @@
-#A demo that Vertx HA not working with zookeeper
+# A demo that Vertx HA not working with zookeeper
 
 ## Vertx version
 3.4.2
